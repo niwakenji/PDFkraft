@@ -1,11 +1,15 @@
 # [PDFkraft](https://github.com/niwakenji/PDFkraft/releases/tag/v1.0.0)
-PDFkraft is a Python-based tool for manipulating PDF files — merging, splitting, watermarking, image insertion, and more.  
-Just drag and drop files onto the interface to use the tool.
-To prevent accidental file deletion, PDFkraft is designed to always generate new output files.  ※ This tool is designed for Windows only.
+PDFkraft is a powerful PDF processing tool written in Python.  
+The name “kraft” comes from the German word for strength or power.
 
-PDFkraftは、PDFの結合・分割・透かし追加・画像挿入・Word変換などを行うPython製ツールです。
-インタフェースに、ファイルをドロップして使います。
-誤ってファイルを消さないよう、出力ファイルは新しく生成される仕様です。
+It supports merging, splitting, adding watermarks, inserting images, converting to Word, and more.  
+Just drag and drop files onto the interface to get started.
+
+To prevent accidental file loss, PDFkraft always creates new output files rather than overwriting the originals.  
+※ This tool is designed for Windows only.
+
+PDFkraftは、パワフル（ドイツ語の力 kraftが由来）にPDFの結合・分割・透かし追加・画像挿入・Word変換などを行うツールです。
+インタフェースに、ファイルをドロップして使います。誤ってファイルを消さないよう、出力ファイルは新しく生成される仕様です。
 ※ Windows 専用ツールです。  
 
 
