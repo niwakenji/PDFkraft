@@ -1,7 +1,7 @@
 # [PDFkraft](https://github.com/niwakenji/PDFkraft/releases/tag/v1.0.0)
-PDFcraft is a Python-based tool for manipulating PDF files — merging, splitting, watermarking, image insertion, and more.  
+PDFkraft is a Python-based tool for manipulating PDF files — merging, splitting, watermarking, image insertion, and more.  
 Just drag and drop files onto the interface to use the tool.
-To prevent accidental file deletion, PDFcraft is designed to always generate new output files.  ※ This tool is designed for Windows only.
+To prevent accidental file deletion, PDFkraft is designed to always generate new output files.  ※ This tool is designed for Windows only.
 
 PDFkraftは、PDFの結合・分割・透かし追加・画像挿入・Word変換などを行うPython製ツールです。
 インタフェースに、ファイルをドロップして使います。
@@ -9,7 +9,7 @@ PDFkraftは、PDFの結合・分割・透かし追加・画像挿入・Word変�
 ※ Windows 専用ツールです。  
 
 
-![PDFcraft GUI](overview.jpg)
+![PDFkraft GUI](overview.jpg)
 
 ---
 
@@ -37,15 +37,15 @@ PDFkraftは、PDFの結合・分割・透かし追加・画像挿入・Word変�
 
 ## 🚀 Getting Started / はじめかた
 
-Place `PDFcraft.py` and `language.json` in the same folder and run:  
-`PDFcraft.py` と `language.json` を同じフォルダに置いて、以下のように実行してください：
+Place `PDFkraft.py` and `language.json` in the same folder and run:  
+`PDFkraft.py` と `language.json` を同じフォルダに置いて、以下のように実行してください：
 
 ```bash
-python PDFcraft.py
+python PDFkraft.py
 ```
 
-Or, if you're using the executable version, Place PDFcraft.exe and language.json in the same folder and double-click to run.
-または、実行ファイル版を使う場合は、PDFcraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。  
+Or, if you're using the executable version, Place PDFkraft.exe and language.json in the same folder and double-click to run.
+または、実行ファイル版を使う場合は、PDFkraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。  
 
 
 ---
