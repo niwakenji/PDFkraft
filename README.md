@@ -1,4 +1,4 @@
-# PDFkraft
+# [PDFkraft 1.0.0](https://github.com/niwakenji/PDFkraft/releases/tag/v1.0.0)
 PDFcraft is a Python-based tool for manipulating PDF files — merging, splitting, watermarking, image insertion, and more.  
 Just drag and drop files onto the interface to use the tool.
 To prevent accidental file deletion, PDFcraft is designed to always generate new output files.  ※ This tool is designed for Windows only.
@@ -66,7 +66,7 @@ If the file is missing or invalid, Japanese will be used as fallback.
 
 ---
 
-## 📦 Requirements / 必要なパッケージ
+## 📦 Requirements / コンパイルに必要なパッケージ
 
 For running from source:  
 ソースから実行する場合の依存パッケージは以下の通りです。
