@@ -8,9 +8,17 @@ Just drag and drop files onto the interface to get started.
 To prevent accidental file loss, PDFkraft always creates new output files rather than overwriting the originals.  
 ※ This tool is designed for Windows only.
 
-PDFkraftは、パワフル（ドイツ語の力 kraftが由来）にPDFの結合・分割・透かし追加・画像挿入・Word変換などを行うツールです。
-インタフェースに、ファイルをドロップして使います。誤ってファイルを消さないよう、出力ファイルは新しく生成される仕様です。
-※ Windows 専用ツールです。  
+PDFkraftは、Pythonで作られた高機能なPDF処理ツールです。  
+名前の「kraft」は、ドイツ語で「力」「パワー」を意味しています。
+
+PDFの結合・分割・透かし追加・画像挿入・Word変換など、多彩な機能に対応しています。  
+使い方は簡単で、ファイルをインターフェースにドラッグ＆ドロップするだけです。
+
+元のファイルを誤って削除してしまうことを防ぐため、  
+PDFkraftは常に**新しい出力ファイルを生成**する設計になっています。
+
+※ このツールはWindows専用です。
+
 
 
 ![PDFkraft GUI](overview.jpg)
