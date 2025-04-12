@@ -83,8 +83,8 @@ If the file is missing or invalid, Japanese will be used as fallback.
 For running from source:  
 ソースから実行する場合の依存パッケージは以下の通りです。
 
-See [`requirements.txt`](./requirements.txt) for installation.  
-インストールには [`requirements.txt`](./requirements.txt) をご利用ください。
+See [`requirements.txt`](https://github.com/niwakenji/PDFkraft/releases/download/v1.0.0/requirements.txt) for installation.  
+インストールには [`requirements.txt`](https://github.com/niwakenji/PDFkraft/releases/download/v1.0.0/requirements.txt) をご利用ください。
 
 
 ---
