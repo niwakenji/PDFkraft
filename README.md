@@ -57,7 +57,7 @@ python PDFkraft.py
 ```
 
 Or, if you're using the executable version, Place PDFkraft.exe and language.json in the same folder and double-click to run.
-または、実行ファイル版を使う場合は、PDFkraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。ダウンロード時と実行時に警告が出ますが、「詳細情報」を選択し、保存、実行してください。githubのPDFkraft.exeに危険性はありません。
+または、実行ファイル版を使う場合は、PDFkraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。ダウンロード時と実行時に警告が出ますが、「詳細情報」を選択し、保存、実行してください。githubからダウンロードできるPDFkraft.exeに危険性はありません。
 
 
 ---
@@ -78,7 +78,7 @@ If the file is missing or invalid, Japanese will be used as fallback.
 
 ---
 
-## 📦 Requirements / コンパイルに必要なパッケージ
+## 📦 Requirements / 必要なパッケージ
 
 For running from source:  
 ソースから実行する場合の依存パッケージは以下の通りです。
