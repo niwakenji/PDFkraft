@@ -57,7 +57,7 @@ python PDFkraft.py
 ```
 
 Or, if you're using the executable version, Place PDFkraft.exe and language.json in the same folder and double-click to run.
-または、実行ファイル版を使う場合は、PDFkraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。ダウンロード時と実行時に警告が出ますが、「詳細情報」を選択し、保存、実行してください。PDFkraft.exeは危険なファイルではありません。
+または、実行ファイル版を使う場合は、PDFkraft.exe と language.json を同じフォルダに置いてダブルクリックで実行してください。ダウンロード時と実行時に警告が出ますが、「詳細情報」を選択し、保存、実行してください。githubのPDFkraft.exeに危険性はありません。
 
 
 ---
